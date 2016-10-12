@@ -1,1 +1,1 @@
-# java_string_args_ornegi
+Java String[] args örneği
